@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Profile_Activity</string>
+        <!-- Other existing strings -->
+    <string name="todo">To Do</string>
+</resources>
